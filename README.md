@@ -10,7 +10,7 @@ This project is designed to strengthen your understanding of:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add, view, and update student details
 - Add and assign courses to students
@@ -21,7 +21,7 @@ This project is designed to strengthen your understanding of:
 
 ---
 
-## 🧱 Tech & Tools
+## Tech & Tools
 
 - Language: Python 3
 - Structure: CLI program with modular design
@@ -29,7 +29,7 @@ This project is designed to strengthen your understanding of:
 
 ---
 
-## 🧠 Concepts Practiced
+## Concepts Practiced
 
 | Concept | How it’s used |
 |--------|---------------|
@@ -41,7 +41,7 @@ This project is designed to strengthen your understanding of:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 student_grade_system/
 │
 ├── main.py               # CLI entry point
@@ -51,12 +51,7 @@ student_grade_system/
 │   └── manager.py        # Admin functions
 ---
 
-## 📌 Status
+## Status
 
-> 🚧 In Progress — built for learning OOP deeply by creating a full project from scratch.
+>  In Progress — built for learning OOP deeply by creating a full project from scratch.
 
----
-
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
