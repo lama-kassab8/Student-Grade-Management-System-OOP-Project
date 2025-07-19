@@ -51,7 +51,4 @@ student_grade_system/
 │   └── manager.py        # Admin functions
 ---
 
-## Status
-
->  In Progress — built for learning OOP deeply by creating a full project from scratch.
 
